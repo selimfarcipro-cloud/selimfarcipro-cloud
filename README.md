@@ -38,29 +38,6 @@ Currently building my Data Analyst portfolio. Open to **internship opportunities
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
-
-## Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🚧 *Coming soon* | Media audience analysis | SQL · Python · Power BI | — |
-| 🚧 *Coming soon* | Customer segmentation (retail/luxury) | SQL · pandas · Looker Studio | — |
-| 🚧 *Coming soon* | End-to-end data pipeline | Python · dbt · BigQuery | — |
-
-> Portfolio in active development — first project dropping soon.
-
----
-
-## What I'm currently learning
-
-- **SQL** — window functions, CTEs, query optimization
-- **pandas & seaborn** — data wrangling and visualization
-- **Power BI** — dashboard design and DAX basics
-- **dbt** — data modeling and transformation pipelines
-
----
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE-PROFIL)
